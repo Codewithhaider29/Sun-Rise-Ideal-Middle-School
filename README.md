@@ -1,5 +1,7 @@
 # Sun Rise Ideal Middle School Template
 
+Last updated: 2025-01-03 04:14:15
+
 ## Overview
 This is a free educational HTML template designed specifically for **Sun Rise Ideal Middle School**. The template is built using **Bootstrap 4.5.2**, ensuring a responsive and adaptable layout for all device types. Whether you're viewing on a desktop, tablet, or mobile, this template delivers an optimal experience.
 
